@@ -1,0 +1,6 @@
+export enum Role {
+  CLIENTE,
+  BIBLIOTECARIO,
+  GERENTE,
+  VISITANTE
+}

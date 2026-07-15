@@ -1,0 +1,15 @@
+export enum CategoriaLivro {
+  FICCAO,
+  NAO_FICCAO,
+  ROMANCE,
+  SUSPENSE,
+  FANTASIA,
+  CIENCIA,
+  HISTORIA,
+  BIOGRAFIA,
+  AUTOAJUDA,
+  INFANTIL,
+  JUVENIL,
+  TECNICO,
+  DIDATICO,
+}

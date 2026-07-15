@@ -1,0 +1,7 @@
+export enum StatusLivro {
+  DISPONIVEL,
+  EMPRESTADO,
+  RESERVADO,
+  MANUTENCAO,
+  PERDIDO,
+}
